@@ -5,4 +5,4 @@ A repository to keep the different techniques that I've developed in SFML togeth
 ![](https://raw.githubusercontent.com/Benediximuss/SFML-workshop/main/accelerated-movement/accelerated-movement.gif)
 
 ## Projectile Aiming and Basic Collision 
-[](https://raw.githubusercontent.com/Benediximuss/SFML-workshop/main/projectiles/projectiles.gif)
+![](https://raw.githubusercontent.com/Benediximuss/SFML-workshop/main/projectiles/projectiles.gif)
